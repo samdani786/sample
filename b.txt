@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 first line b.txthi this is second linethis is my second line
-=======
-first line b.txthi this is second line
 github modified
-
