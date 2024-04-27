@@ -1,2 +1,3 @@
-first line b.txthi this is second linethis is my second line
+first line b.txt this is my second line
+hi i am
 github modified
