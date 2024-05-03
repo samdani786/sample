@@ -1,0 +1,2 @@
+first line in f2.txt
+second line in f2.txt
